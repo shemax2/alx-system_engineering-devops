@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-=======
-#!bin/bash
->>>>>>> cec2be7 (0.Hello World)
 ls
